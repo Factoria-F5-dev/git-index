@@ -10,6 +10,7 @@
 
 ## 🌍 Recursos Externos
 
+- [Skills de Github](https://skills.github.com/)
 - [Guía rápida de Git](https://rogerdudler.github.io/git-guide/index.es.html)
 - [Generador de .gitignore](https://www.toptal.com/developers/gitignore)
 - [Commits convencionales](https://www.conventionalcommits.org/en/v1.0.0/)
