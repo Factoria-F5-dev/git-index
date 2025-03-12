@@ -6,7 +6,7 @@
 
 ## 📖 Guía del tema
 
-...
+... Las ideas de Manuela, es un tema pequeño, haría esto...
 
 ## 📌 Proyectos
 
