@@ -54,6 +54,10 @@ Se establecen tres niveles de conocimiento en Git: **Básico, Medio y Avanzado**
 - Resolución avanzada de conflictos y cherry-picking (`git cherry-pick`).
 - Seguridad en Git (gestión de claves SSH, firmas GPG en commits).  
 
-## 👥 ¿Personas Referentes? Externas internas
+## 👥 ¿Personas Referentes? 
 
-## ⏰ ¿Tiempo para niveles? ¿Tiempo de activadades? Suponinendo que vienen nivel 0
+Externas e internas
+
+## ⏰ Tiempo para niveles
+
+Tiempo de activadades, suponinendo que vienen nivel 0
