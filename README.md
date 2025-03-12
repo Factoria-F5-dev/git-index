@@ -1,6 +1,10 @@
 # git-index
 
-## Guía del tema
+## 🎯 Competencia
+
+...
+
+## 📖 Guía del tema
 
 ...
 
