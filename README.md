@@ -1,5 +1,9 @@
 # git-index
 
+## Guía del tema
+
+...
+
 ## 📌 Proyectos
 
 - **Escribir un texto juntos**: Crear un texto entre todas las personas de la clase
@@ -8,7 +12,7 @@
 
 - [Repositorios Git de Factoría F5](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:git)
 
-## 🌍 Recursos Externos
+## 🌍 Recursos Externos, con tiempo y evaluación
 
 - [Skills de Github](https://skills.github.com/)
 - [Guía rápida de Git](https://rogerdudler.github.io/git-guide/index.es.html)
@@ -46,6 +50,6 @@ Se establecen tres niveles de conocimiento en Git: **Básico, Medio y Avanzado**
 - Resolución avanzada de conflictos y cherry-picking (`git cherry-pick`).
 - Seguridad en Git (gestión de claves SSH, firmas GPG en commits).  
 
-## 👥 ¿Personas Referentes?
+## 👥 ¿Personas Referentes? Externas internas
 
-## ⏰ ¿Tiempo para niveles?
+## ⏰ ¿Tiempo para niveles? ¿Tiempo de activadades? Suponinendo que vienen nivel 0
