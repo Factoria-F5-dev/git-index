@@ -12,11 +12,11 @@
 
 - **Escribir un texto juntos**: Crear un texto entre todas las personas de la clase
 
-## 📚 Recursos Internos
+## 📚 Recursos Internos (con tiempo y evaluación)
 
 - [Repositorios Git de Factoría F5](https://github.com/orgs/Factoria-F5-dev/repositories?q=topic:git)
 
-## 🌍 Recursos Externos, con tiempo y evaluación
+## 🌍 Recursos Externos (con tiempo y evaluación)
 
 - [Skills de Github](https://skills.github.com/)
 - [Guía rápida de Git](https://rogerdudler.github.io/git-guide/index.es.html)
