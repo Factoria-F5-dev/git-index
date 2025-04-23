@@ -48,7 +48,6 @@ Se establecen tres niveles de conocimiento en Git: **Básico, Medio y Avanzado**
 - Aplicación de convenciones en commits ([Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)).
 
 ### 🚀 Nivel Avanzado
-- Configuración de CI/CD con GitHub Actions.
 - Uso de `git bisect` para debugging eficiente. Busqueda avanzada de errores.
 - Automatización con scripts (`git hooks`, `custom aliases`).
 - Resolución avanzada de conflictos y cherry-picking (`git cherry-pick`).
